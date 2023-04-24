@@ -1,6 +1,6 @@
 ---
 title: "Terminals and the art of terminal-ing"
-date: 2021-05-24T19:54:40+05:30
+date: 2021-05-05T19:54:40+05:30
 # weight: 1
 # aliases: ["/first"]
 tags: ["Terminals"]
