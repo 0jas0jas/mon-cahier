@@ -3,7 +3,7 @@ title: "The complexity of Tor: Halloween edition"
 date: 2021-05-11T20:14:09+05:30
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["Tor", "Networking"]
 showToc: true
 TocOpen: false
 draft: false
