@@ -6,7 +6,7 @@ date: 2023-04-13
 tags: ["first"]
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: true
 disableHLJS: true # to disable highlightjs
@@ -32,4 +32,3 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-Hello teju babu
