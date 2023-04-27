@@ -3,7 +3,7 @@ title: "Automate The Boring Stuff With Python"
 date: 2021-05-28T17:02:15+05:30
 # weight: 1
 # aliases: ["/first"]
-tags: ["Python", "Automation"]
+category: ["Python", "Automation"]
 showToc: true
 TocOpen: false
 draft: false
