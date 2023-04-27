@@ -46,7 +46,7 @@ Okay so that is a terminal. Then what about the black windows we use today? What
 
 These are terminal emulators. Obviously, we wouldn’t want to go back to THAT heavy ugly rusted piece of hardware. These terminal emulators give you the feels of a terminal from 1970 but on your own modern computer. The above terminal is a terminal on MacOS which uses the Z-shell (more on that later). These terminals were one of the pioneers of terminal emulators. However, these don’t look good too. Why would someone use this black and green monstrosity when we have a coloured GUI(Graphical User Interface). Actually…
 
-![windows](/pictures/windows-terminal.png)
+![windows](../../pictures/windows-terminal.png)
 
 They can look beautiful nowadays, but that doesn’t change the fact, GUI is clearly better than these scary terminal emulators. First of all, I love terminal emulators (terminals for short). I love how you can type and feel the power running through your fingers (Linux people would get it). Additionally, this is closest you can get to your computers heart and it’s actually quite useful. Some actions which GUI cannot ever do, are possible here.
 
@@ -54,13 +54,13 @@ For example, suppose you have to find if google is online without opening google
 
 Windows users have it pretty straight forward, just type `ping www.google.com` 
 
-![win ping](/pictures/ping-windows.png)
+![win ping](../../pictures/ping-windows.png)
 
 The statics on your screen are straight. Your computer receives 4 packets of 32 bytes from the google servers and records the time and finds the average.
 
 Mac users using the ZSH (Z-Shell) have a more advanced ping system. Typing `ping www.google.com` and stopping the command by CMD + C, you’ll get something like this.
 
-![mac ping](/pictures/ping-mac.png)
+![mac ping](../../pictures/ping-mac.png)
 
 While windows’ PowerShell only receives 4 packets, the Z-shell on Mac keeps receiving (64 bytes) data packets and gives you the mathematical opportunity of finding the average yourself.
 
@@ -78,17 +78,17 @@ To find what shell you’re using is a fairly complicated process but through ei
 
 Starting from the easiest, just type ‘ps’ to find all the files your computer is running right now and look for the shell file. You’ll have to look deep sometimes and for my amazing linux users, it’s the easiest. 
 
-![kali](/pictures/ps-kali.png)
+![kali](../../pictures/ps-kali.png)
 
 See? Zsh represents Z-shell which the shell that the linux I am using uses (Kali Linux). Ubuntu has the infamous bash script. And PowerShell on windows has PowerShell but you’ll have to search in the millions of files windows has always open for you.
 
-![win ps](/pictures/ps-windows.png)
+![win ps](../../pictures/ps-windows.png)
 
 There you go, PowerShell. Sometimes, on older versions of PowerShell, you might also find ‘PWSH’.
 
 To find what shell you’re using on macOS is simple too with the command `echo $SHELL`. (MacOS offers multiple shells).
 
-![echo mac](/pictures/echo-mac.png)
+![echo mac](../../pictures/echo-mac.png)
 
 Each shell has its own features and commands. The knowledge of at least the top shells will help you work on multiple devices.
 

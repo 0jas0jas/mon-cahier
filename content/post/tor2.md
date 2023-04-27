@@ -54,7 +54,7 @@ What we call the Dark Web and associate dark, scary things with is actually know
 
 The problem with onion routing as you must remember was that the exit node was vulnerable. The server which you were trying to reach was public, everyone knew where it was so it was easy to find that last node or the exit node. If, somehow, we could make the server private or “hidden” then we might be on to something.
 
-![onion routing](/pictures/onion%20routing.jpg)
+![onion routing](../../pictures/onion%20routing.jpg)
 
 What happens to hidden services is that they are simply shifted from being outside the tor network to being INSIDE it. Bear with me.
 
@@ -66,7 +66,7 @@ You fire up your tor browser and type in your favourite .onion site (psst… htt
 
 The onion site you open is one of the onion routers as established before. You, first, decide upon a common place, a rendezvous point. This point is where you two are supposed to meet like some spies in a movie. But you might ask, how would you give this rendezvous address to the server? The onion site picks some onion routers at random and makes them ‘introduction points’. Introduction Points have no idea where the server of the site it, because the server uses complete tor circuits to connect to the randomly chosen IP [Introduction Points]. This is the place where you want to come to give the address of the rendezvous point so you can talk to the website. Becoming an introduction point is easy and does not require a lot of bandwidth so most routers can do it.
 
-![onion routing](/pictures/%5BInsert%20Exit%20Node%20Fiasco%20here%5D%20(2).jpg)
+![onion routing](../../pictures/%5BInsert%20Exit%20Node%20Fiasco%20here%5D%20(2).jpg)
 
 First of all, you want to sit there at your RP [Rendezvous Point] and wait for the server. You also want to send the location of your RP and ask the server to come meet you there. So, you set sail, with complete tor circuits (I have talked about tor circuits here) to reach one of the IP or introduction points. The introduction points are connected to the hidden server when you reach there at the IP, you tell it to ask the server to meet you at [THIS SECRET LOCATION] which is your rendezvous point. You also give the introduction point a secret one-time password, something like ‘password123’ to let you know that it’s only the server who’s talking. This protocol really uses a password, and no this is not a movie again (of course the password is much more complicated to figure out).
 

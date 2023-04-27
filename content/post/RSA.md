@@ -45,21 +45,21 @@ It’s clever. The algorithm relies on two sets of keys. Public and Private. The
 Let’s bring Alice and Bob to help us grasp this. Alice wants to contact Bob and ask him out for coffee, but she’s afraid Hac Erman would intercept their messages and come to the café too, which would just be horrendous for Alice and Bob (Hac is a HUGE pain in the butt). Alice and Bob decide to use the RSA encryption method to talk. Initially, Alice sends Bob a simple plain text message: “Hey, I wanna talk.”. This intrigues Hac, naturally, but Alice doesn’t care.
 
 
-![Sending](/pictures/RSA/SendingMessage.png)
+![Sending](../../pictures/RSA/SendingMessage.png)
 
 
 Bob reads the message and nods. He then creates two keys, the first key would encrypt Alices messages (thus, being the public key) and the second key would decrypt her messages (therefore, serving as Bob’s Private key). He then sends over the public key to Alice. Hac being the annoying person he is, gets his hand on the public key and thinks he’s making progress. Alice gets the key too.
 
 
-![Receiving the message](/pictures/RSA/recievingMessage.png)
+![Receiving the message](../../pictures/RSA/recievingMessage.png)
 
 She encrypts the message with the Public Key AND her own private key that she created. (The message was “Hey do you wanna go out for coffee?”). The message is double encrypted. Once, by the public key and then again by Alice’s key. When Alice sends the message, Hac will try to decrypt using the public key only to find out he needs Bob’s Private key, as well.
 
-![Resending the message](/pictures/RSA/resendingMessage.png)
+![Resending the message](../../pictures/RSA/resendingMessage.png)
 
 Bob receives the message, decrypts it first using a public key and then his own private key to read the message. He writes his own message: “Nope”. And encrypts it with both keys again. Alice finds the message, decrypts it with both the keys and frowns. The end.
 
-![nope](/pictures/RSA/nope.png)
+![nope](../../pictures/RSA/nope.png)
 
 If this analogy didn’t make sense to you and you’re a “math person”, perhaps this will satisfy you. If not, you might want to stop reading because things are about to get MATHSY *gasp*.
 

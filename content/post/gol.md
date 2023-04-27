@@ -43,7 +43,7 @@ editPost:
 
 The three very simple rules of the game allows the game to be even played on a chess or a Reversi board. A particular “cell" can have 2 states: alive or dead. To determine a cell’s state in the next generation, its neighbours(N) are addressed. Every cell (except the corner cells) have 8 neighbours. 
 
-![Cell’s neighbours](/pictures/Game%20Of%20Life/N.jpg)
+![Cell’s neighbours](../../pictures/Game%20Of%20Life/N.jpg)
 
 Looking at one cell, you look at the following three rules and change the state of the cell.
 
@@ -51,18 +51,18 @@ Looking at one cell, you look at the following three rules and change the state 
 - Survival: Every cell with 2 or 3 alive neighbours, stays alive.
 
 
-![Staying Alive](/pictures/Game%20Of%20Life/Staying%20Alive.jpg)
+![Staying Alive](../../pictures/Game%20Of%20Life/Staying%20Alive.jpg)
 
 - Death: Every cell with 4 or more neighbours dies as if by overpopulation, and every cell with 1 or less neighbour dies as if by underpopulation.
 
 
-![Cell’s death by overpopulation](/pictures/Game%20Of%20Life/Death-overpopulation.jpg)
-![Cell’s death by underpopulation](/pictures/Game%20Of%20Life/Death-underpopulation.jpg)
+![Cell’s death by overpopulation](../../pictures/Game%20Of%20Life/Death-overpopulation.jpg)
+![Cell’s death by underpopulation](../../pictures/Game%20Of%20Life/Death-underpopulation.jpg)
 
 - Birth: Cells with exactly 3 neighbours are born.
 
 
-![Cell’s birth](/pictures/Game%20Of%20Life/Birth.png)
+![Cell’s birth](../../pictures/Game%20Of%20Life/Birth.png)
 
 
 Those three very simple rules are the pillars of the game of life and are the reason why it’s still loved by computer scientists and mathematicians.

@@ -51,13 +51,13 @@ This specific program is for those article readers who find usually find themsel
 
 BS4 or BeautifulSoup is an amazing library to make web scrapping a piece of cake. All you have to really do is get the page, store the HTML file in a variable and start looking for data you actually want from the HTML file. I have made a simple boilerplate HTML for a page that will convert this “scrapped" information into an easy-to-read article. Here’s how BS4 works.
 
-![Article Page Cleaner](/pictures/article%20cleaner.jpg)
+![Article Page Cleaner](../../pictures/article%20cleaner.jpg)
 
 As you’ve read, you need a variable to store the HTML file you are going to parse. However, before that you need to give python access to the web and let it visit the website itself. We use the python HTTP library (in-built) for this and to get (visit) the site, we need `'requests'` python library. In my program, I’ve also added an extra feature where you can just copy the URL of the website in your clipboard and it automatically gets the URL using another library called pyperclip. You can use this library to make you code run faster without redundant inputs from the user. To avoid taking ANY input at all, I’ve used the `sys` python library to see if the user has typed a URL after using python3 `cleaner.py` [ URL ] or not. This again avoids redundant inputs. Instructions in the README.md attached to the code.
 
 We stored our HTML file in the noStarchSoup variable as seen in line 19. Now all we have to do is get the information out. Any basic knowledge of HTML will make this task easier for you, there are a lot of ways to get data from a webpage. We wanted only the text of the article we wanted to read so I made a variable elems to store the elements in an HTML which contain the text of an article. These elements are the heading tags(h1-h6) and the paragraph tags(p).
 
-![cleaner.py code](/pictures/Cleaner%20py.jpg)
+![cleaner.py code](../../pictures/Cleaner%20py.jpg)
 
 I prepared a boilerplate HTML containing some simple CSS styles, huge font and readability. That done, you just have to get the elems variable INTO the HTML file. I opened the file using the built in OS library and just… inserted it. Done. There you have your own article cleaner. It’s that easy.
 
@@ -69,7 +69,7 @@ Of course it shouldn’t be this easy. This is just a template. Go ahead get wha
 Oh don’t you dare lie to me, we’ve all been there with hundreds of files at hand. Messy directories are everywhere on my computer and also when you’re creating something, there will obviously be useless extra files. These files have to be deleted, the useful files have to be kept in new directories and the files have to be sorted. All that can be done through python. It’s really simple.
 
 Although the code looks messy, it has a simple logic and making something like this for your need is easier than you might expect. Import shutil library to copy and move files and `pathlib` library which is just better than its predecessor, OS library, for managing paths and creating new directories.
-![Simple file organizer](/static/pictures/organize%20py.jpg)
+![Simple file organizer](../../pictures/organize%20py.jpg)
 
 Most of the deleting, moving and copying of files can be done in single lines of code. Once you know those syntaxes, make your own logic to organize the files as you like.
 
@@ -106,7 +106,7 @@ Mee6, if you don’t already know, is a discord bot which gives you XP for talki
 
 Mee6 is no AI, it has an algorithm we can exploit. After spending 2 minutes on the websites, I found out that for every 60 seconds you talk, it gives you some random number of XP. It could detect that you’re spamming so you just have to randomly say something once in every 60 seconds. Easy.
 
-![me6](/pictures/mee6.jpg)
+![me6](../../pictures/mee6.jpg)
 
 We use the very useful pyautogui library for this task. It lets you use your keyboard to type and press keys. See where this is going? Rapid coding go! Step 1: get a random number of seconds between 20 to 60 seconds and store it in a variable ( this is the number of seconds we’ll wait after each input ). Step 2: Look what’s inside the variable and wait for that many seconds. Step 3: Type a arbitrary word ( in my case, “hello") and press enter. Step 4: Repeat, keep all this in a loop so it repeats itself. Done. It’s that simple. Pyautogui makes it even easier. You can remove the waiting part to just straight up spam the chat or you can modify the code so it type something meaningful or do whatever your creativity allows you to do!
 

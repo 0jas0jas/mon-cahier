@@ -51,29 +51,29 @@ To setup tor is as easy as downloading the tor browser. You could also download 
 
 As you should know, tor uses routers as nodes. Call them tor nodes, call them onion routers, whatever. These nodes are in this huge cloud of nodes or routers. These routers are just computers like yours and mine and when you install tor you are volunteering to act as an onion router. This huge system of networks has thousands of routers.
 
-![Network of tor routers](/pictures/world.jpg)
+![Network of tor routers](../../pictures/world.jpg)
 
 All scattered across continents. This is very significant in the building of an untraceable network. All routers are a part of the huge network that is the tor network.
 
 Let’s go to a server. Let’s browse Facebook. Facebook has its huge servers visible to everyone. I don’t want anyone to see that I am using Facebook or people would call me an old grandpa and what not so I use the tor network
 
-![Using tor network](/pictures/Me.jpg)
+![Using tor network](../../pictures/Me.jpg)
 
 Tor implements 3 completely random hops by default before reaching the servers of facebook.com. These “hops" are the number of routers it goes through before reaching the server. The first router is called the entry node, then comes the relay node and finally the exit node. The priority is to prevent the routers and the server to know where the data is coming from. This is tor, people. The most secure connection you can have on planet earth.
 
 
-![Connection of onion routers](/pictures/routers.jpg)
+![Connection of onion routers](../../pictures/routers.jpg)
 
 A normal tor data packet is of 512 bytes long and they are called (no-one really calls them that!) cells. They contain a tail which tells the node (router) the location of the next router. These cells contain no information about the entire circuit, they just tell the node where to pass the data next. Got it? Visual representation:
 
 
-![A tor cell/ Data Packet](/pictures/Screenshot%202021-05-11%20121919.jpg)
+![A tor cell/ Data Packet](../../pictures/Screenshot%202021-05-11%20121919.jpg)
 
 So the router reading this knows what to do. It just... does it, no questions asked.
 
 That’s how your data gets from this side to that side
 
-![A tor circuit](/pictures/tor%20circuit.jpg)
+![A tor circuit](../../pictures/tor%20circuit.jpg)
 
 Using three chosen, completely at random, nodes on the network, your data reaches the servers of facebook.com. This connection between you and the nodes and the server is called a tor circuit. When the server has to talk to you, it does the exact same thing just in the opposite direction (of course it does not use the same nodes).
 
@@ -85,7 +85,7 @@ Fixing that is easy, use some kind of encryption. Tor has its own encryption whi
 
 The rules of the game are simple. Everyone gets a key. I get 3 keys and that’s how it goes. These keys are encryption keys when I encrypt my message with all of these 3 keys, my messages get these cool layers of encryption like an onion.
 
-![Encryption using keys](/pictures/encryption.jpg)
+![Encryption using keys](../../pictures/encryption.jpg)
 
 K1 can only be decrypted with the same K1 key, the similar is the case for the other keys. When I encrypt the data with all three keys, each tor node takes off one layer of encryption. The first onion node with the K1 can only encrypt one layer off this data data, consequently it can make no sense of the data. The second node in the circuit uses K2 and then K3 is used. The last onion node is also known as the exit node and it’s between this node and the server when the data packet is the most vulnerable but the packet is still encrypted with, probably, good encryption algorithms.
 

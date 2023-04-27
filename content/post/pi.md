@@ -42,7 +42,7 @@ Disclaimer: π is irrational. Duh doy. We’ve proved it over and over and over 
 Try this. Open up your calculator (a physical one) and type in 116 / 13 and look at the solution carefully. Chances are, (possibly if you’re using a CASIO scientific calculator) you’re getting a number in terms of π. So, did we just prove that π is rational? Case closed? Well, no.
 
 
-![Diving](/pictures/calc/116.png)
+![Diving](../../pictures/calc/116.png)
 
 
 We KNOW π is not rational so why is this calculator which is supposed to be our guide in our mathematical endeavours beg to differ? We… don’t… know.
@@ -53,7 +53,7 @@ As one of my friends said after staring at this solution for an hour, “This is
 
 The simplest solution that comes to mind is that maybe this is a really close approximation of π so the calculator feels best to just print out π. No. The π in this solution is accurate to the first 12 digits of π, which is undoubtedly REALLY close but try this: 199 / 23. This answer is accurate to the first 15 digits of π but the calculator just spits out the approximate value. Why? What’s up?
 
-![](/pictures/calc/199.png)
+![](../../pictures/calc/199.png)
 
 
 Okay, so it’s not the π approximation trick. Then what? Maybe there’s something wrong with the numbers? The number 3600. If you take any gibberish number (not too big) and divide it by 3600, you’ll get gibberish (duh). HOWEVER, if you take some gibberish number (not too big) and divide it by 3600 and then multiply it by π, it gives you an answer in the multiple of π. That might seem like an obvious thing but try dividing the same gibberish by some other number (other than 3600), you get gibberish.
