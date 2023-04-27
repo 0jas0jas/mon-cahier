@@ -3,7 +3,7 @@ title: "Hashing Algorithms 101"
 date: 2021-06-26T18:29:54+05:30
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["Cryptography", "Hashing"]
 showToc: true
 TocOpen: false
 draft: false
