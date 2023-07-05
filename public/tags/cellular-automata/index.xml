@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cellular Automata on Mon cahier</title>
+    <link>https://0jas0jas.github.io/mon-cahier/tags/cellular-automata/</link>
+    <description>Recent content in Cellular Automata on Mon cahier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 04 Jun 2021 18:16:10 +0530</lastBuildDate><atom:link href="https://0jas0jas.github.io/mon-cahier/tags/cellular-automata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathematicians Favourite Pixel Art: Conway’s Game of Life</title>
+      <link>https://0jas0jas.github.io/mon-cahier/post/gol/</link>
+      <pubDate>Fri, 04 Jun 2021 18:16:10 +0530</pubDate>
+      
+      <guid>https://0jas0jas.github.io/mon-cahier/post/gol/</guid>
+      <description>The Game Of Life I created. It was the October of 1970 and the monthly magazine “Scientific American&amp;quot; had a peculiarly interesting article on an apparent game called “life&amp;quot;. That issue of the magazine grew up to be the most sold at the time. The game was The Game of Life by John Horton Conway, an English mathematician. Dr. Conway calls the game a “zero-player&amp;quot; game which accurately describes the amusement you can achieve by just observing the patterns transform from afar.</description>
+    </item>
+    
+  </channel>
+</rss>

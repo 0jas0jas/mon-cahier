@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminals on Mon cahier</title>
+    <link>https://0jas0jas.github.io/mon-cahier/tags/terminals/</link>
+    <description>Recent content in Terminals on Mon cahier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 05 May 2021 19:54:40 +0530</lastBuildDate><atom:link href="https://0jas0jas.github.io/mon-cahier/tags/terminals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terminals and the art of terminal-ing</title>
+      <link>https://0jas0jas.github.io/mon-cahier/post/terminals/</link>
+      <pubDate>Wed, 05 May 2021 19:54:40 +0530</pubDate>
+      
+      <guid>https://0jas0jas.github.io/mon-cahier/post/terminals/</guid>
+      <description>Terminals. It feels like everyone has heard the word. It also feels like everyone thinks they know what a terminal is, but do they? A terminal’s actual definition has derailed significantly. Here is a terminal:
+What? This is not a terminal? You imagined a cool looking dual monitor computer with a black window and a person typing away their life? Nope. This is a terminal. This is actually one of the later iterations of a terminal.</description>
+    </item>
+    
+  </channel>
+</rss>

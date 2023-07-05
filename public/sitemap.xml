@@ -2,21 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/first/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+    <loc>https://0jas0jas.github.io/mon-cahier/tags/calculator/</loc>
+    <lastmod>2023-04-27T18:43:00+05:30</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+    <loc>https://0jas0jas.github.io/mon-cahier/tags/mathematics/</loc>
+    <lastmod>2023-04-27T18:43:00+05:30</lastmod>
   </url><url>
-    <loc>/post/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+    <loc>https://0jas0jas.github.io/mon-cahier/</loc>
+    <lastmod>2023-04-27T18:43:00+05:30</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+    <loc>https://0jas0jas.github.io/mon-cahier/post/</loc>
+    <lastmod>2023-04-27T18:43:00+05:30</lastmod>
   </url><url>
-    <loc>/post/pigeonhole/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+    <loc>https://0jas0jas.github.io/mon-cahier/tags/</loc>
+    <lastmod>2023-04-27T18:43:00+05:30</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://0jas0jas.github.io/mon-cahier/post/pi/</loc>
+    <lastmod>2023-04-27T18:43:00+05:30</lastmod>
+  </url><url>
+    <loc>https://0jas0jas.github.io/mon-cahier/tags/cryptography/</loc>
+    <lastmod>2022-03-21T18:35:38+05:30</lastmod>
+  </url><url>
+    <loc>https://0jas0jas.github.io/mon-cahier/tags/encryption/</loc>
+    <lastmod>2022-03-21T18:35:38+05:30</lastmod>
+  </url><url>
+    <loc>https://0jas0jas.github.io/mon-cahier/post/rsa/</loc>
+    <lastmod>2022-03-21T18:35:38+05:30</lastmod>
+  </url><url>
+    <loc>https://0jas0jas.github.io/mon-cahier/tags/hashing/</loc>
+    <lastmod>2021-06-26T18:29:54+05:30</lastmod>
+  </url><url>
+    <loc>https://0jas0jas.github.io/mon-cahier/post/hashing/</loc>
+    <lastmod>2021-06-26T18:29:54+05:30</lastmod>
+  </url><url>
+    <loc>https://0jas0jas.github.io/mon-cahier/tags/cellular-automata/</loc>
+    <lastmod>2021-06-04T18:16:10+05:30</lastmod>
+  </url><url>
+    <loc>https://0jas0jas.github.io/mon-cahier/post/gol/</loc>
+    <lastmod>2021-06-04T18:16:10+05:30</lastmod>
+  </url><url>
+    <loc>https://0jas0jas.github.io/mon-cahier/post/automationwithpython/</loc>
+    <lastmod>2021-05-28T17:02:15+05:30</lastmod>
+  </url><url>
+    <loc>https://0jas0jas.github.io/mon-cahier/tags/blockchain/</loc>
+    <lastmod>2021-05-21T16:54:39+05:30</lastmod>
+  </url><url>
+    <loc>https://0jas0jas.github.io/mon-cahier/post/nft/</loc>
+    <lastmod>2021-05-21T16:54:39+05:30</lastmod>
+  </url><url>
+    <loc>https://0jas0jas.github.io/mon-cahier/tags/web3/</loc>
+    <lastmod>2021-05-21T16:54:39+05:30</lastmod>
+  </url><url>
+    <loc>https://0jas0jas.github.io/mon-cahier/tags/networking/</loc>
+    <lastmod>2021-05-14T16:46:06+05:30</lastmod>
+  </url><url>
+    <loc>https://0jas0jas.github.io/mon-cahier/post/tor2/</loc>
+    <lastmod>2021-05-14T16:46:06+05:30</lastmod>
+  </url><url>
+    <loc>https://0jas0jas.github.io/mon-cahier/tags/tor/</loc>
+    <lastmod>2021-05-14T16:46:06+05:30</lastmod>
+  </url><url>
+    <loc>https://0jas0jas.github.io/mon-cahier/post/tor1/</loc>
+    <lastmod>2021-05-11T20:14:09+05:30</lastmod>
+  </url><url>
+    <loc>https://0jas0jas.github.io/mon-cahier/tags/terminals/</loc>
+    <lastmod>2021-05-05T19:54:40+05:30</lastmod>
+  </url><url>
+    <loc>https://0jas0jas.github.io/mon-cahier/post/terminals/</loc>
+    <lastmod>2021-05-05T19:54:40+05:30</lastmod>
+  </url><url>
+    <loc>https://0jas0jas.github.io/mon-cahier/categories/</loc>
   </url>
 </urlset>

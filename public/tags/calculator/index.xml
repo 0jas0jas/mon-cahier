@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calculator on Mon cahier</title>
+    <link>https://0jas0jas.github.io/mon-cahier/tags/calculator/</link>
+    <description>Recent content in Calculator on Mon cahier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 27 Apr 2023 18:43:00 +0530</lastBuildDate><atom:link href="https://0jas0jas.github.io/mon-cahier/tags/calculator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>π is rational, or is it?</title>
+      <link>https://0jas0jas.github.io/mon-cahier/post/pi/</link>
+      <pubDate>Thu, 27 Apr 2023 18:43:00 +0530</pubDate>
+      
+      <guid>https://0jas0jas.github.io/mon-cahier/post/pi/</guid>
+      <description>Disclaimer: π is irrational. Duh doy. We’ve proved it over and over and over again, but this isn’t really about π being rational or not. No no. This is about how mysterious the simplest of technologies tend to be even today when it feels like we’ve mastered technology. But seriously, π ISN’T rational, don’t get any ideas.
+The Confusion Try this. Open up your calculator (a physical one) and type in 116 / 13 and look at the solution carefully.</description>
+    </item>
+    
+  </channel>
+</rss>

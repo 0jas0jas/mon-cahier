@@ -1,22 +1,107 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mon cahier</title>
-    <link>/tags/</link>
+    <link>https://0jas0jas.github.io/mon-cahier/tags/</link>
     <description>Recent content in Tags on Mon cahier</description>
-    <image>
-      <title>Mon cahier</title>
-      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 13 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Apr 2023 18:43:00 +0530</lastBuildDate><atom:link href="https://0jas0jas.github.io/mon-cahier/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>first</title>
-      <link>/tags/first/</link>
-      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <title>Calculator</title>
+      <link>https://0jas0jas.github.io/mon-cahier/tags/calculator/</link>
+      <pubDate>Thu, 27 Apr 2023 18:43:00 +0530</pubDate>
       
-      <guid>/tags/first/</guid>
+      <guid>https://0jas0jas.github.io/mon-cahier/tags/calculator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematics</title>
+      <link>https://0jas0jas.github.io/mon-cahier/tags/mathematics/</link>
+      <pubDate>Thu, 27 Apr 2023 18:43:00 +0530</pubDate>
+      
+      <guid>https://0jas0jas.github.io/mon-cahier/tags/mathematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptography</title>
+      <link>https://0jas0jas.github.io/mon-cahier/tags/cryptography/</link>
+      <pubDate>Mon, 21 Mar 2022 18:35:38 +0530</pubDate>
+      
+      <guid>https://0jas0jas.github.io/mon-cahier/tags/cryptography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encryption</title>
+      <link>https://0jas0jas.github.io/mon-cahier/tags/encryption/</link>
+      <pubDate>Mon, 21 Mar 2022 18:35:38 +0530</pubDate>
+      
+      <guid>https://0jas0jas.github.io/mon-cahier/tags/encryption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hashing</title>
+      <link>https://0jas0jas.github.io/mon-cahier/tags/hashing/</link>
+      <pubDate>Sat, 26 Jun 2021 18:29:54 +0530</pubDate>
+      
+      <guid>https://0jas0jas.github.io/mon-cahier/tags/hashing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cellular Automata</title>
+      <link>https://0jas0jas.github.io/mon-cahier/tags/cellular-automata/</link>
+      <pubDate>Fri, 04 Jun 2021 18:16:10 +0530</pubDate>
+      
+      <guid>https://0jas0jas.github.io/mon-cahier/tags/cellular-automata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>https://0jas0jas.github.io/mon-cahier/tags/blockchain/</link>
+      <pubDate>Fri, 21 May 2021 16:54:39 +0530</pubDate>
+      
+      <guid>https://0jas0jas.github.io/mon-cahier/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web3</title>
+      <link>https://0jas0jas.github.io/mon-cahier/tags/web3/</link>
+      <pubDate>Fri, 21 May 2021 16:54:39 +0530</pubDate>
+      
+      <guid>https://0jas0jas.github.io/mon-cahier/tags/web3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networking</title>
+      <link>https://0jas0jas.github.io/mon-cahier/tags/networking/</link>
+      <pubDate>Fri, 14 May 2021 16:46:06 +0530</pubDate>
+      
+      <guid>https://0jas0jas.github.io/mon-cahier/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tor</title>
+      <link>https://0jas0jas.github.io/mon-cahier/tags/tor/</link>
+      <pubDate>Fri, 14 May 2021 16:46:06 +0530</pubDate>
+      
+      <guid>https://0jas0jas.github.io/mon-cahier/tags/tor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terminals</title>
+      <link>https://0jas0jas.github.io/mon-cahier/tags/terminals/</link>
+      <pubDate>Wed, 05 May 2021 19:54:40 +0530</pubDate>
+      
+      <guid>https://0jas0jas.github.io/mon-cahier/tags/terminals/</guid>
       <description></description>
     </item>
     
