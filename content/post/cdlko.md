@@ -89,7 +89,7 @@ Next step was to prepare the workshops. Vangmay and Partho brought in an AMAZING
 
 ### The Outreach
 
-![](https://lh3.googleusercontent.com/pw/AIL4fc-gbdFmjrQS6VPoT0Fk9dwQO8FmQq90KHaKYaHSTsrKPnqB7BtyXh_DeErm7lqx8dNwh7xsO0uPxLDHUp_GZvBxzAvkmUBc4EkMy3mZJTmpO3hJkQmE0AMC1ONM_24wXgF4PX_fYfHQyTzN5Pt3MkVw=w2064-h1376-s-no?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AJFCJaWTF-TQONz3ovPrTYy1QcGXHYUWBwWx4xMDgeDKHoBKvGKjOsq4JDzHbf_prBNVfYwE3I3KdnQhS0ZBBU1Q257bKkfcTwQwjE8ojHgOD2gGJMIiVhssA-AuhGVgu65gJSR1x7fdONgykURZH_LyNICx=w2064-h1376-s-no?authuser=0)
 
 "OJAS, WE DON'T HAVE ANY ATTENDEES. I AM VERY CONCERNED," said Mahi when she called me 10 AM in the morning (I wake up at 12. So does she.) Mahi and I make a great team. We've worked on so many things together and our ideas typically align perfectly. She's the kind of person who'll take everything under herself just for it all to be perfect. I respect that. 
 
@@ -97,7 +97,7 @@ In the last second week of May, I was diagnosed with hepatitis-A (not serious, v
 
 We sat down as a team and came up with stuff to do. We ended up getting in contact (Akif and Prakhar again) a councellors' WhatsApp group which helped in outreach A LOT. We also got our brochures sent to WhatsApp group of the primary schools in Lucknow. (Isha and Manya helped contact La Martiniere)
 
-![](https://lh3.googleusercontent.com/pw/AIL4fc-gbdFmjrQS6VPoT0Fk9dwQO8FmQq90KHaKYaHSTsrKPnqB7BtyXh_DeErm7lqx8dNwh7xsO0uPxLDHUp_GZvBxzAvkmUBc4EkMy3mZJTmpO3hJkQmE0AMC1ONM_24wXgF4PX_fYfHQyTzN5Pt3MkVw=w2064-h1376-s-no?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AIL4fc9EGS3eUKsDRcEuZcKyunNfYYMF8peppwt51OHpdKW7HJjYALGFS3bEYhnzE-LKCSdQvE_Uux70UbfFIP_NN1OacCeTbPVjSb6Meo8Sp15my3MslAOpNFoUjFarTOrunNz1vWM3j2ij-OzZ4NyicRJD=w1835-h1376-s-no?authuser=0)
 
 By the end, we had 124 registrations and our event ran out of seats. So, outreach was, ultimately, a success.
 
