@@ -42,6 +42,8 @@ It took roughly four months to plan CodeDay Lucknow. We started in a cozy cafe w
 
 Our team consisted of people from all around Lucknow. Nobody knew each other. We were from different schools with different strengths. I think we found our place in the team pretty quickly as the creative work started.
 
+![Team](https://lh3.googleusercontent.com/pw/AIL4fc--ZhrKXtG_4itAQpPl-yjN4oedkgHVGAQLjG7-iOMwQV-IxWZqodaP9NzICUx41bOFmxcOgBLbsVhVRHa2Egm-d237FmsSShMkI2GeYvi9-E-haQEoETYvP-v8E78uzSjC2nzimM5W6688f4PduHQt=w1835-h1376-s-no?authuser=0)
+
 ### The Creatives
 
 One of the first things we designed was the CodeDay Lucknow logo. All [Pavani's](https://www.deviantart.com/enchantinghues) hardwork. (A lot of our creatives were Pavani's work. The entire team pitched in but the direction was usually Pavani-guided)
@@ -57,9 +59,13 @@ Teal - #52B5B5
 
 We almost entirely used figma for all the instagram posts at the start. We jumped to Adobe Illustrator for some later posts and then canva for some recent ones.
 
+![welcome](https://lh3.googleusercontent.com/pw/AIL4fc_DsDhmvi-XBP6x5hv7QtodVDNa6ElSQwdVzDtquchPn0k0rvtLNbMyguYs0DeQ0gts9gDMI0GamMzgzGblVYrgzfp930DXZh8PPnnrPDwPZXhRGSJFXjc13ctV0uSxwbzWbuQPc2Amx9ArOC7VW1ZA=w2064-h1376-s-no?authuser=0)
+
 I love figma because of his freedom. You can make anything you imagine. Yes, it takes a lot of time but it's worth it, at least for me. Canva on the other hand is simple and easy to use, but the output generally is too basic. Illustrator requires a very high level of skill so we let [Isha](https://www.linkedin.com/in/isha-zaheer) handle illustrator.
 
 ### The workshops
+
+![peace](https://lh3.googleusercontent.com/pw/AIL4fc80q1HEQRwigHfkkA1bDqpoxsAgY4R-6UkJKnC3m7lu3LTbL1bIj3eSQHMN8vZl36ZUlDtIhrD2QmQFhvgO5UrEr6lowmmFlZj-aFXLJxHM4X48wQj0Htu1yIav_N5h_Eoyq8cRdv_Y6zPP2F-4EpV8=w2064-h1376-s-no?authuser=0)
 
 Workshops at CodeDay Lucknow were a huge success, thanks to [Partho](https://github.com/daspartho) and [Vangmay](https://github.com/Vangmay). We sat down and decided what we wanted to do. We wanted to look at workshops from a different perspective. Quoting our registration form:
 
@@ -67,11 +73,13 @@ Workshops at CodeDay Lucknow were a huge success, thanks to [Partho](https://git
 
 Partho wrote emails to interested people and potential workshop hosts. One of his emails included our idea of a "GOOD workshop" which clearly explains what we were going for:
 
-"OUR version of a good workshop:
-- people go back with something new and different that they learnt
-- it inspires them to go home and try more of it; not just for the session but also beyond it
-- fun and creative
-- it is not a class or a lecture where attendees are simply listening to you and seeing you do stuff, it should encourage them to actively engage in building alongside" - Partho
+>"OUR version of a good workshop:
+>- people go back with something new and different that they learnt
+>- it inspires them to go home and try more of it; not just for the session but also beyond it
+>- fun and creative
+>- it is not a class or a lecture where attendees are simply listening to you and seeing you do stuff, it should encourage them to actively engage in building alongside" - Partho
+
+![Great White Sharks](https://lh3.googleusercontent.com/pw/AIL4fc-gbdFmjrQS6VPoT0Fk9dwQO8FmQq90KHaKYaHSTsrKPnqB7BtyXh_DeErm7lqx8dNwh7xsO0uPxLDHUp_GZvBxzAvkmUBc4EkMy3mZJTmpO3hJkQmE0AMC1ONM_24wXgF4PX_fYfHQyTzN5Pt3MkVw=w2064-h1376-s-no?authuser=0)
 
 Some people actually thought the "Do you want to host a workshop?" toggle button was "Do you want to attend a workshop?" We crossed out about 50% of the people interested because they thought they had to click on "yes, I wanna host a workshop" to attend a workshop. 
 
@@ -81,15 +89,69 @@ Next step was to prepare the workshops. Vangmay and Partho brought in an AMAZING
 
 ### The Outreach
 
+![](https://lh3.googleusercontent.com/pw/AIL4fc-gbdFmjrQS6VPoT0Fk9dwQO8FmQq90KHaKYaHSTsrKPnqB7BtyXh_DeErm7lqx8dNwh7xsO0uPxLDHUp_GZvBxzAvkmUBc4EkMy3mZJTmpO3hJkQmE0AMC1ONM_24wXgF4PX_fYfHQyTzN5Pt3MkVw=w2064-h1376-s-no?authuser=0)
+
 "OJAS, WE DON'T HAVE ANY ATTENDEES. I AM VERY CONCERNED," said Mahi when she called me 10 AM in the morning (I wake up at 12. So does she.) Mahi and I make a great team. We've worked on so many things together and our ideas typically align perfectly. She's the kind of person who'll take everything under herself just for it all to be perfect. I respect that. 
 
 In the last second week of May, I was diagnosed with hepatitis-A (not serious, very mild) and it messed up with my capacity to work. I took some long weeks off everything which caused us halt the outreach for CodeDay Lucknow. Mahi was in the US. We did have a few registrations by the first week of june, but we had missed something really important. Summer vacations start by the first week of june in our state so we could only go to one school, City Montessori School, Gomti Nagar 1. It's a big school, it got us about 30 registrations but it was enough at all. We couldn't physically go to schools (I couldn't physically go to schools). This was when Mahi called me all concerned. (shout out to [Akif](https://open.spotify.com/artist/0I5glCgpgTjz3bmINHyo7k?si=gZlC4vuzTMeesvDEPCNF-g) and [Prakhar](https://www.linkedin.com/in/prakhar-verma-503bb2212/) for taking initiatives even when I was offline. They made sure we had consistent outreach through our social media)
 
 We sat down as a team and came up with stuff to do. We ended up getting in contact (Akif and Prakhar again) a councellors' WhatsApp group which helped in outreach A LOT. We also got our brochures sent to WhatsApp group of the primary schools in Lucknow. (Isha and Manya helped contact La Martiniere)
 
+![](https://lh3.googleusercontent.com/pw/AIL4fc-gbdFmjrQS6VPoT0Fk9dwQO8FmQq90KHaKYaHSTsrKPnqB7BtyXh_DeErm7lqx8dNwh7xsO0uPxLDHUp_GZvBxzAvkmUBc4EkMy3mZJTmpO3hJkQmE0AMC1ONM_24wXgF4PX_fYfHQyTzN5Pt3MkVw=w2064-h1376-s-no?authuser=0)
+
 By the end, we had 124 registrations and our event ran out of seats. So, outreach was, ultimately, a success.
+
+### The Registrations
+
+For CodeDay Lucknow, we planned to use Microsoft Office Forms and we did! This (not really) little post is me thinking retrospectively about our decision. You could look at a small summary of what happened [here](https://forms.office.com/Pages/AnalysisPage.aspx?AnalyzerToken=h7NCulIYfQ0pkNj6no7jUsMOTOpMx2dz&id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__d1xKFpUQUVZODBJOElVR0tQMlkzRUExNlJZS1lPVS4u).
+
+#### Why would we even do that?
+Primarily, to have more control over our registration flow. We wanted to know more about our audience (but I do think we missed a lot more "survey questions"). To a certain extent, we did learn a lot about our audience. If an attendee sent us their photography portfolio, we could refer to that when meeting this attendee at the event. It just makes the event kind of more "wholesome" because the organisers' know more about their audience. One of the downsides to this was that lack of experience making forms. The CodeDay registration forms is a product of a LOTTTT of events which makes it really appropriate for the job. We didn't have that expertise.
+Region specific questions
+All CodeDays are different flavours of the same amazing event. I think the culture of the city the CodeDay is hosted in, makes up a lot of the atmosphere at the CodeDay. The splash of culture makes CodeDays have these many flavours to a large extent. So, I think we should have questions which are generally specific to the city or region, as well! What's your favourite kind of kebab? Or what's your favourite transit colour? These questions don't "contribute" that much but they make the form more friendly.
+
+#### What problems did we face?
+The tickets weren't registered automatically on clear OBVIOUSLY so we had to use our CodeDay API and GraphQL to mutate clear tickets. Don't get me wrong, I LOVED spending 5 hours figuring out how to do that + 3 more hours troubling Lola and Tyler (you guys helped a lot, thank you sooo much), but it was a little tedious. I didn't want to spend another 10 hours typing out our 100 registrations manually into GraphQL sooo I did what any normal teen would do. I spent 3 hours writing a Python script to automate running 100 instances of the createTicket mutation.  I messed up my code and it caused a little problem so I had to manually fix it using clear (happened 30 minutes ago). It hath beeneth doneth now so exhales
+
+#### What I think could be the solution
+I loved banging my head on the table because I'm a bad debugger but I wouldn't want future RMs to go through this. WHAT IF we have this feature on clear where you could add questions to the registration form and we could graph some of these questions for some fun statistics (like this one ⬇️). 
+
+![Poll](../../pictures/cdlko/poll.png)
+
+I don't know, my idea clearly isn't very "clear" right now (stabs self) but I would love to help work this out. I think we are such an amazing community because we encourage creativity and innovation. If future events want to be creative on their registration forms, then should we really limit them?
+
+Tl;dr We tried using third-party registration forms. We loved the new information we could extract but there were some technical difficulty. Maybe we didn't even need to use a third party if we had an "Add question" button on clear.
+
 
 ### The food
 
 Okay so I kept the easiest for the last. Food is SOOO easy to think about in Lucknow. Thank you, [Deven](https://www.linkedin.com/in/jadhavdeven/), for the domino's pizzas. We planned for our CodeDay to be very culturally appropiate, so we chose to have awadhi food for dinner which included biryani, kebabs and very awadhi breads. Breakfast was going to be sharma ji's samose and ban makhan, but due to some sharma ji reasons we couldn't do that. So, Deven, for the rescue again, got us Ram Asrey's Samose, Kachauris and Jalebi. All in all, you can't not love Lucknow's food, man. You just can't. Everything was bursting with flavour. I wrote our menu down in a crumbled piece of paper, which I might just keep as a souvenir.
 
+![](https://lh3.googleusercontent.com/pw/AJFCJaVuF5LXtBgc6w7MYWLvJMRVk4oRngmJvINvbsEBsh6VgujoP5DlqDLcH6eTAKD4ce7wLqwuybWoiI3DGiGFf8-e0lfvi4Mo6hwwGxums8bCCYuaBmOwuAtqxaKEA02VjbVfjoVAmnekxrMQQg0e1wrw=w2064-h1376-s-no?authuser=0)
+
+## The execution
+
+After all this planning, after all the ups and downs and after all the calling people, the day was here. I didn't sleep that day because my mind kept asking "What have I forgotten for tomorrow?". We took a few days to just call everyone to find out if they were coming. Yes, it was tiring, but I think it's worth it. There's so much that happened in the 28-hours. It changed a lot of things forever.
+
+### The Check-in
+
+Smooth. Deven, Akif and Isha were checking people in. Me, Manya and Mahi were welcoming people. Everybody else was making sure everyone was comfortable inside. It was fun seeing confused faces and us going like "Hi, here for codeday? Welcome!", while they stared at us in fantastical awkwardness. The weather was amazing. It had just rained and all the colours were blushing so everyone was excited. It WAS humid though. In the one hour, I was super sweaty. Our team did sometimes start chatting and ignoring attendees, but not in concerning amounts. 
+
+We met with a lot of parents. Concerned ones AND the excited ones both were really open to conversations which was amazing. Mahi showed people around the venue which made them more at ease. Everything seemed perfect. 
+
+### The Kickstarter
+
+"When I say CodeDay, you say Lucknow"
+We brought in the right CodeDay vibe. No one thought of it as a school activity. Everyone was hyped up and excited for the next 24-hours. I think that's what kickstarters should do. At the start, even the mic-holders are awkward which just makes everything more friendly. Just think of the stupidest things to say and say it, that's how you break the ice. We thanked our venue sponsors, Shri Rasmswaroop Memorial College of Engineering & Management who helped us througout the event, making sure everything ran smoothly and with no hurdles. We went through everything about CodeDay and showcase and judging and everything. Basic present.codeday.org stuff. 
+
+![](https://lh3.googleusercontent.com/pw/AIL4fc8b0BaUuyK6vOcmU37JNtXHHWL_tPSClhziocgrL9TfIIiUziXZLl2OukuGG73O5g771l-U7u8aGsk-YKhCYroAPAprWm2hjYN19ydZSviuDQDGplPG_w3mEzh1JZT-hrbVneACSKPk_ZIF28pzQ09B=w2064-h1376-s-no?authuser=0)
+
+### The Icebreakers
+
+We had a hard time coming up with an icebreaker. I remember getting on a call with 4-5 people in my team while everybody stares at their screens without saying anything, because we were thinking. Thinking about ice-breakers. What could break the ice? When suddenly, Pavani goes like, "Hey what if, we come up with conspiracies..." 
+
+Pavani had recommended a Netflix show to me then, *Inside Job*. It's a comedy about conspiracies. I was sold on the idea right there. Her idea was to come up with 15 conspiracies and give one conspiracy to one team. The team would have to come up with reasons to support their conspiracy using a PowerPoint Presentation. It was the perfect icebreaker.
+
+![](https://lh3.googleusercontent.com/pw/AIL4fc_Q5yU_yBYxThVOnoLVfY71YC6kMVUFVkJ9l1dLz8N5iAOgVovN1e8QyBTN8_2b39e7wI5anORaCGvSxS73OiOMprYOpAwurN1eYVmV0ZxCMF1yuvck3ub2LmT9ir-zGw3V3no_WuwTSBkt8xlFO0fV=w2064-h1376-s-no?authuser=0)
+
+The range was absolutely insane at the icebreaker. Some teams tried to use maths to prove that GIF is actually pronounced "IF" and some teams straight-up had a stand-up comedy routine. The laughs and the "oh wow, I might actually believe this" just made this group of 50 people so much closer. They had never met each other, but they all knew how everyone talked and thought like. Again, a perfect icebreaker. 
