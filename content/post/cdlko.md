@@ -6,7 +6,7 @@ date: 2023-07-06T00:07:04+05:30
 tags: ["retrospective", "codeday", "event"]
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: true
 disableHLJS: true # to disable highlightjs
@@ -53,8 +53,11 @@ One of the first things we designed was the CodeDay Lucknow logo. All [Pavani's]
 We posted our first instagram post with a good response from awadhi audience. We had an art direction, too, with our colour scheme being:
 
 Violet - #67509F
+
 Beige - #E1D0C1
+
 Code-day pink - #FF686B
+
 Teal - #52B5B5
 
 We almost entirely used figma for all the instagram posts at the start. We jumped to Adobe Illustrator for some later posts and then canva for some recent ones.
