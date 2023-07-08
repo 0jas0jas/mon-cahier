@@ -6,7 +6,7 @@ date: 2023-07-06T00:07:04+05:30
 tags: ["retrospective", "codeday", "event"]
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: true
 disableHLJS: true # to disable highlightjs
@@ -116,14 +116,12 @@ All CodeDays are different flavours of the same amazing event. I think the cultu
 #### What problems did we face?
 The tickets weren't registered automatically on clear OBVIOUSLY so we had to use our CodeDay API and GraphQL to mutate clear tickets. Don't get me wrong, I LOVED spending 5 hours figuring out how to do that + 3 more hours troubling Lola and Tyler (you guys helped a lot, thank you sooo much), but it was a little tedious. I didn't want to spend another 10 hours typing out our 100 registrations manually into GraphQL sooo I did what any normal teen would do. I spent 3 hours writing a Python script to automate running 100 instances of the createTicket mutation.  I messed up my code and it caused a little problem so I had to manually fix it using clear (happened 30 minutes ago). It hath beeneth doneth now so exhales
 
-#### What I think could be the solution
-I loved banging my head on the table because I'm a bad debugger but I wouldn't want future RMs to go through this. WHAT IF we have this feature on clear where you could add questions to the registration form and we could graph some of these questions for some fun statistics (like this one ⬇️). 
+#### Restrospectively how did we use the third-party form?
+Logistically, some information like school made it easier for us to send letters/certificates to schools and it also added another method of contact (School culture is big in Lucknow). 
 
-![Poll](../../pictures/cdlko/poll.png)
+Someone mentioned having "peanut allergies" which also helped us make sure our event was completely safe for everyone. The emergency contacts in the form turned out helpful, as well, because one of the parents wanted to contact their daughter and I could confirm it was legitimate. 
 
-I don't know, my idea clearly isn't very "clear" right now (stabs self) but I would love to help work this out. I think we are such an amazing community because we encourage creativity and innovation. If future events want to be creative on their registration forms, then should we really limit them?
-
-Tl;dr We tried using third-party registration forms. We loved the new information we could extract but there were some technical difficulty. Maybe we didn't even need to use a third party if we had an "Add question" button on clear.
+For the attendee experience, the form turned out more than just a thread of questions. We knew a lot of attendees' hobbies and passions. All this information helped us pair people up and help them in better ways. For example, one of the conversations with an attendee went something like "Hi, I'm ojas and you must be?" "Garv" "Oh you're applying to be pilot, right? That's so cool" "Oh yes, I am. How'd you know that?" and we turned out to be really good friends by the end. It's just little moments like these which I think maade our CodeDay really special for the attendees and volunteers alike. Everybody felt like they belong here and all 50 students got along way too well. I wouldn't credit the registration form entirely for our attendee experience, but it was a good combination of amazing background on attendees, friendly volunteers and excited attendees.
 
 
 ### The food
@@ -149,7 +147,7 @@ We brought in the right CodeDay vibe. No one thought of it as a school activity.
 
 ![](https://lh3.googleusercontent.com/pw/AIL4fc8b0BaUuyK6vOcmU37JNtXHHWL_tPSClhziocgrL9TfIIiUziXZLl2OukuGG73O5g771l-U7u8aGsk-YKhCYroAPAprWm2hjYN19ydZSviuDQDGplPG_w3mEzh1JZT-hrbVneACSKPk_ZIF28pzQ09B=w2064-h1376-s-no?authuser=0)
 
-### The Icebreakers
+### The Icebreaker
 
 We had a hard time coming up with an icebreaker. I remember getting on a call with 4-5 people in my team while everybody stares at their screens without saying anything, because we were thinking. Thinking about ice-breakers. What could break the ice? When suddenly, Pavani goes like, "Hey what if, we come up with conspiracies..." 
 
@@ -157,4 +155,18 @@ Pavani had recommended a Netflix show to me then, *Inside Job*. It's a comedy ab
 
 ![](https://lh3.googleusercontent.com/pw/AIL4fc_Q5yU_yBYxThVOnoLVfY71YC6kMVUFVkJ9l1dLz8N5iAOgVovN1e8QyBTN8_2b39e7wI5anORaCGvSxS73OiOMprYOpAwurN1eYVmV0ZxCMF1yuvck3ub2LmT9ir-zGw3V3no_WuwTSBkt8xlFO0fV=w2064-h1376-s-no?authuser=0)
 
-The range was absolutely insane at the icebreaker. Some teams tried to use maths to prove that GIF is actually pronounced "IF" and some teams straight-up had a stand-up comedy routine. The laughs and the "oh wow, I might actually believe this" just made this group of 50 people so much closer. They had never met each other, but they all knew how everyone talked and thought like. Again, a perfect icebreaker. 
+The range was absolutely insane at the icebreaker. Some teams tried to use maths to prove that GIF is actually pronounced "IF" and some teams straight-up had a stand-up comedy routine. The laughs and the "oh wow, I might actually believe this" just made this group of 50 people so much closer. They had never met each other, but they all knew how everyone talked and thought like. Again, a perfect icebreaker.
+
+One of the things I noticed was how the shy population almost opened up or at least tried to looking at the outgoing presentations. It's interesting because we clapped and cheered for all the participants, and I could see the clear uptick in everyone's confidence. I think that's a successful icebreaker.
+
+### The workshops part 2
+
+I'm not sure if it was pure coincedence or our hardwork but workshops at CodeDay had everything I wanted it to have. Even before starting off with the planning, I had an idea of how I wanted to do workshops at this CodeDay. We've talked about my thoughts on that earlier in this blog. I didn't want our workshops to look like lectures or the workshops that most hackathons have. Workshops for me means primarily taking home something, weather it's a creative project that you learnt how to make or new ideas. Partho instantly realised my intentions with CodeDay Lucknow's workshops when I pitched the idea to him. We were lucky to have really amazing people from all around the world working on these workshops. 
+
+All the workshops at the event were just excited group of people working together on something. Luke's workshop on Colour Grading is the perfect example of the kind of workshop I was hoping for. Imagine in a room, 15 people sit together with their own photos and Luke helping them edit them to perfection. The outcomes were genuinely perfect images. The fun thing was that everybody had their own images to edit. There was no lecture. Luke had a PPT with all the things he wanted to tell these people and then he let them run wild with the saturation and the colour contrasts. He even told us about how AI is affecting photography and how we can use AI to edit fascinating pictures. 
+
+Luke's just an example, I'd like to give a huge shout to everyone who came up with genuinely insane workshops. Kushagra had an astronomy workshop where he asked us to stand up and inact what we think a black hole was in groups. Manas and Sameer's hacking workshops went deep into Pi Picos and rubber duckies, we could see how engaged people were. Devang started off with a react workshop but then he decided to pivot to MIT AppInventor. Now imagine rethinking an entire workshop and changing the topic completely and still being as good as he was. The App Inventor workshop was a huge success with everyone learning something that probably isn't that common anymore. Moreover, the way Devang helped everyone individually was truly incredible. 
+
+### The projects
+
+It's been a long post. Well, it was a long CodeDay. It was just as fatastical though. Even after everything stupid and wacky and fun we did at CodeDay, everybody stayed up at night coding away their genius ideas. The projects were some of the best hackathon projects I've ever seen. There's a lot to talk about everybody's projects, I'll limit myself to my favourite ones. [The great white sharks' created this absolutely futile food selection app](https://ripbutt.github.io/Code_Day_Lucknow/Code%20day%20Lucknow%20(Great%20White%20Sharks)/) which had no meaning whatsoever, but the sheer creativity and wackiness of the project got it the Best In Show award, deservingly. It had all symptoms of a perfect CodeDay project. I don't think I can describe it well so you might just open the link and check it out yourself (AUDIO ON). [The chappal protect-inator 3000](https://showcase.codeday.org/project/cljkybw7g381986f9ohut9kwg3a) was a python marvel to look at. I get how they won the best in class app because of their stupid ideas and the hilarious concepts but the technology behind the project was so intriguing to me. The project was basically controlling essential tasks like pausing a video or changing a tab using hand gestures but how a language like PYTHON can handle AI so fast was unbelievable to me. You'll have to use the app to realise how fast and effective it was. All the gestures were perfect which even smartphones can't pull off these days. [The game that team kraken made](https://showcase.codeday.org/project/cljkzhjtd402519f9ohcypcj3sk) based on a doremon storyline was just as funny and creative as any other platformer I've played. It felt like a fully produced game with really fine finishing touches. The game itself played so well with fluid mechanics and everything. I'm doing a really horrible job explaining these projects because you'll have to use them to really get what they were made of. 
