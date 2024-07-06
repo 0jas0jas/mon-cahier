@@ -58,4 +58,49 @@ The program is just printing. That's all it does. It prints "Hello world", sprin
 
 Credit to the creators of [Bhai Lang](https://bhailang.js.org). 
 
+![SQL Sample Program](../../pictures/GrandmaWorkshop/sql.png)
+
+Weird. I don't understand anything here. Am I trying to throw you guys off by just writing rubbish? Not really, this really is a real programming languages. It's called SQL. It's not your typical language though. It's a special purpose language, which means it was made to serve ONE purpose: doing database stuff. It's completely okay if you don't understand any of this. You don't have to. The point is that languages can be so different that sometimes they just become some code words for some secret specific work.
+
+What does this do? It's running through all the records in `T.x`, `T.y`, `T.year` and filtering the data and returning all the records that have year more than 2010 and less than 2012. Now it doesn't really just do that. It does some pre-analysis on the data before finding stuff (like getting the SUM of the numbers in `T.DEV`), but that doesn't really matter. We want to just look closely at how different languages work.
+
+![Piet Sample Program](../../pictures/GrandmaWorkshop/piet.png)
+
+Woah woah woah. WHAT IN THE WORLD IS THAT? It's an esoteric language, Piet. What's esoteric languages? These are languages which exist because they can. It's a picture, it's not even words. Can you program without words? Piet is a good example of a language breaking bounds. Remember, computers only understand 1s and 0s; we created the words we so compare with "programming languages". No one said it had to be english or even words at all. Piet is represented with pixels of colours. 
+
+This program is a hello world program.
+
+### Questions that I had looking at these languages
+
+- Why do we use semicolons?
+- When we don't, why do we use indentation?
+- Why do we see so much similarities in languages?
+- And if languages CAN be that different, then like why?
+
+Programming languages are super cool. They portray our curiousity and limits. There are programs which are genuinely unprogrammable in ANY programming language. While the programs which are programmable, are so in all the programming languages (even Piet). Hopefully by the the end of this, you'll have answers to some of these questions. 
+
+## Setting up our Gitpod workstation
+
+For our workshop, we'll be playing with a lot of programming languages. The best way to learn is to fiddle with the machine, so let's do exactly that. 
+
+[Here's a link to the repository we'll be using.](https://github.com/CodeDay-Lucknow/Teach-your-grandma-how-to-code)
+
+Go ahead and find a `Fork` button and click on it > Click on `Create Fork`.
+
+A Fork of a repository is like copying your friend's work but like changing the name and some things inside it. 
+
+You'll be directed to a "Fork" of my original repository. This is your playground. I have added some starter code in different languages. You might recognise some. We'll edit this now in Gitpod.
+
+Gitpod is a service which lets you open VSCode on your browser. It's really neat. I have configured our playground Gitpod Workspace so you don't have to worry about the nitty gritties of programming languages. These configurations are in `.gitpod.yml` file. You can explore what's inside but gitpod is out of our scope. We're talking about programming languages!
+
+See that Address Bar up there on your browser? It should say something like: `https://github.com/<YOUR-USERNAME>/Teach-your-grandma-how-to-code`. Go ahead and edit this to: `https://gitpod.io#github.com/<YOUR-USERNAME>/Teach-your-grandma-how-to-code`
+
+All I did was add a "gitpod.io#" before "github" and after "https://". 
+
+You should be prompted to sign in. Just sign in using GitHub and click on 'Create Workspace'. You're ready to go.
+
+You should have your own VSCode running in your broswer. On your right, there are a bunch of files you can play with. We'll now learn a bunch of programming languages all at once. 
+
+## So what did those programming languages have in common?
+
 
