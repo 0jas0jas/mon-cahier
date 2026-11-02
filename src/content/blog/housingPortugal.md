@@ -69,7 +69,7 @@ I’ll finish with a few things I think are worth discussing.
 
 First, is this a policy failure that a different government could fix, or is it built into how the economy works? Portugal has actually tried some reforms. In 2023 the Socialist government ended golden visas and froze new Airbnb licences in the big cities, and then the current government rolled some of that back. And Spain is blocking evictions right now. So I’m curious what people think about whether reform can actually stick. I know it's a common topic to discuss but it's very clearly one of the highlights of Portugal's situation.
 
-Second, what does it mean that the constitution promises housing and it clearly isn’t being delivered? I've seen this a lot of times personally as well. India's constitution starts by basically India a hardcore socialist state but it's turned out to be insanely far from it.
+Second, what does it mean that the constitution promises housing and it clearly isn’t being delivered? I've seen this a lot of times personally as well. India's constitution starts by basically calling India a hardcore socialist state but it's turned out to be insanely far from it.
 
 Third, what would success even look like for these protests? Getting the bill withdrawn, bringing down the government, or something something else?
 
