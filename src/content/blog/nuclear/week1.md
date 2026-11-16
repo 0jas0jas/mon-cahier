@@ -1,4 +1,3 @@
-
 ---
 title: Dev Log 1 - The Under-Taker
 author: Karman
