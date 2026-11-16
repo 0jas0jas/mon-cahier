@@ -3,7 +3,7 @@ title: Dev Log 3 - The easy way out
 author: sathya
 pubDatetime: 2025-05-30T04:06:31Z
 slug: dev-log-3
-featured: true
+featured: false
 draft: false
 tags:
   - devlog

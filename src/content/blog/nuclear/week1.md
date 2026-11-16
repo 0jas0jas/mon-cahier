@@ -3,7 +3,7 @@ title: Dev Log 1 - The Under-Taker
 author: Karman
 pubDatetime: 2025-05-20T04:06:31Z
 slug: dev-log-1
-featured: true
+featured: false
 draft: false
 tags:
   - devlog

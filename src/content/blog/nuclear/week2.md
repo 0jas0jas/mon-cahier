@@ -3,7 +3,7 @@ title: Dev Log 2 - Making some Pot-Holes
 author: avansear
 pubDatetime: 2025-05-23T03:00:00Z
 slug: dev-log-2
-featured: true
+featured: false
 draft: false
 tags:
   - devlog

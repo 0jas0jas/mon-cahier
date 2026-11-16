@@ -3,7 +3,7 @@ title: Dev Log 0 - I feel it coming
 author: ojas
 pubDatetime: 2025-05-08T04:06:31Z
 slug: dev-log-0
-featured: true
+featured: false
 draft: false
 tags:
   - devlog
