@@ -12,6 +12,7 @@ interface EditPostProps {
 }
 
 interface Props extends DatetimesProps, EditPostProps {
+  author?: string;
   size?: "sm" | "lg";
   className?: string;
 }
@@ -23,6 +24,7 @@ export default function Datetime({
   className = "",
   editPost,
   postId,
+  author,
 }: Props) {
   return (
     <div
@@ -50,6 +52,12 @@ export default function Datetime({
           pubDatetime={pubDatetime}
           modDatetime={modDatetime}
         />
+        {author && (
+          <>
+            <span aria-hidden="true"> | </span>
+            <span className="text-nowrap">by {author}</span>
+          </>
+        )}
         {size === "lg" && <EditPost editPost={editPost} postId={postId} />}
       </span>
     </div>
